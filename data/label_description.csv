@@ -1,0 +1,32 @@
+label, name_norwegian, desc_norwegian, poisonous
+0, Hvit fluesopp, "Hvit hattsopp som vokser frem på høsten. Hatten er ofte kjegle/klokkeformet, og stilken er ofte lang og flossete. Hvit fluesopp kan ofte ligne små sjampinjonger og andre matsopper. Veldig giftig og kan foråsake død. Forgiftning synlig etter 6-24 timer, med lever og nyreskade.", 1
+1, Grønn fluesopp, "Grønnlig hattsopp som vokser frem mellom juni og oktober. Hatten er hvelvet og utbredt, med en slank, hul stilk fra en knoll i bunnen. Grønn fluesopp kan ofte ligne grønnkremle, svartringfluesopp og mindre matsopper. Veldig giftig og kan foråsake død. Forgiftning synlig etter 6-24 timer, med lever og nyreskade.", 1
+2, Rød fluesopp, "Rød hattsopp med hvite flekker som kan bli mer gulaktig med alder. Hatten er flat og utbredt, med en hvit, litt tykkere stilk. Rød fluesopp kan ligne en rød kremle. Giftig, med merkbare effekter etter 30min - 3 timer. Kan foråsake brekninger, men er historisk kjent som et sterkt hallusinogen.", 1
+3, Brun fluesopp, "Brun hattsopp med hvite flekker som kan bli mer gulaktig med alder. Hatten er flat og utbredt, med en hvit, litt tykkere stilk. Brun fluesopp kan ligne en annen giftig sopp, panterfluesoppen. Giftig, med merkbare effekter etter 30min - 3 timer. Kan foråsake brekninger, men er historisk kjent som et sterkt hallusinogen.", 1
+4, Panterfluesopp, "Brun hattsopp med hvite flekker. Hatten er flat og utbredt, med en hvit, tynn stilk og en gjennkjennbar ring som er hvit, uten rifler og glatt på utsiden. Panterfluesopp må ikke forveksles med de spiselige grå- og rødnende-fluesoppene. Veldig giftig og kan foråsake død. Forgiftning synlig etter 6-24 timer, med potensiell lever og nyreskade.", 1
+5, Rødnende fluesopp, "Brun hattsopp med mindre utvekster. Hatten er flat og utbredt, med en kraftig, hvitlig/grårosa stilk. Rødnende fluesopp er en god matsopp, men kan ligne svært på pantersoppen, som er svært giftig. Den viktigste forskjellen ligger i det rødnende kjøttet til soppen ved overskjøring eller skade. Burde unngås av fare for forveksling.", 0
+6, Grå fluesopp, "Brun hattsopp med mindre utvekser. Hatten er flat og utbredt, med en kraftig, grålig stilk. Grå fluesopp er en god matsopp, men kan ligne svært på pantersoppen, som er svært giftig. Burde unngås av fare for forveksling.", 0
+7, Butt giftslørsopp, "Dødelig giftig brun hattsopp. Hatten er flat og uten spissen som karakteriserer en spiss giftslørsopp. Stilken er rødbrun med gule belter. Forveksles ofte med kantarell og traktkantarell, da den vokser i lignende miljø. Dødelig giftig. Skader nyrer og lever. Ved mistanke om inntak: Fremkall brekninger og oppsøk lege umiddelbart.", 1
+8, Spiss giftslørsopp, "Dødelig giftig brun hattsopp. Hatten er flat med en karakteristisk spiss. Stilken er rødbrun med gule belter. Forveksles ofte med kantarell og traktkantarell, da den vokser i lignende miljø. Dødelig giftig. Skader nyrer og lever. Ved mistanke om inntak: Fremkall brekninger og oppsøk lege umiddelbart.", 1
+9, Kantarell, "Smakfull og god hattsopp. Hatten er jevnt eggplommegul med bølgende kanter, fra en kompakt, gul stilk. Forveklses til tider med falsk kantarell og giftigere giftslørsopp. Kantareller er relativt skjøre, vanskelige å finne og er ofte ansett som 'skogens gull'.", 0
+10, Traktkantarell, "Smakfull og god hattsopp som ligner den mer sjeldende kantarellen. Hatten er en del mindre og traktformet, med en tynn, hul og gul stilk. Kan lett forveksles med gul trompetsopp, som også er spiselig, samt spiss giftslørsopp, som er dødelig giftig.", 0
+11, Falsk kantarell, "En skivesopp som ofte forveksles med kantareller, men som ikke er ansett som spiselige. Soppen er ikke giftig, men smaker generelt vondt. Hatten er innrullet ved hattekanten, med skiver fra en nokså spinkel stilk.", 0
+12, Gul trompetsopp, "Også kjent som gul traktkantarell, gul trompetsopp er en smakfull og god matsopp. Forvekslet svært ofte med traktkantarell og til tider med den svært giftige spisse giftslørsoppen. Hatten er liten og traktformet, ofte gyllengul til brun/sort, med en tynn, lang stilk.", 0
+13, Blek piggsopp, "", 0
+14, Rødgul piggsopp, "", 0 
+15, Matblekksopp, "", 0
+16, Grå blekksopp, "", 1
+17, Steinsopp, "", 0
+18, Rødbrun Steinsopp, "", 0
+19, Brunskrubb, "", 0
+20, Rødskrubb, "", 0
+21, Svartskrubb, "", 0
+22, Smørsopp, "", 0
+23, Sort trompetsopp, "", 0
+24, Furumatriske, "", 0
+25, Granmatriske, "", 0
+26, Sleipsopp, "", 0
+27, Fåresopp, "", 0
+28, Pluggsopp, "", 1
+29, Flatklokkehatt, "", 1
+30, Sandmorkel, "", 1

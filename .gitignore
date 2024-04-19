@@ -1,3 +1,6 @@
+# Local repositories and data
+data/mushroom_imgs/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
